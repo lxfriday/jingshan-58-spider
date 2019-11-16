@@ -1,0 +1,15 @@
+{
+  "houseImg": "https://pic1.ajkimg.com/display/58ajk/65e88c7c2356676785a6e37380abbb89/500x500.jpg?w=480&h=360&crop=1",
+  "houseDesc": "未来房产推荐阳光丽苑少有二房毛坯45万",
+  "houseLink": "https://jingshanxian.58.com/ershoufang/40020847074593x.shtml?utm_source=&spm=&cityListName=jingshanxian&curListName=jingshanxian&referinfo=FALSE&typecode=201",
+  "houseLayout": "2室2厅1卫",
+  "houseArea": 86,
+  "houseFloor": "中层(共6层)",
+  "houseToward": "南",
+  "xiaoquInfo": {
+    "name": "阳光丽苑",
+    "sameAreaLink": "https://jingshanxian.58.com/xiaoqu/yangguangliyuanSXid/ershoufang/",
+    "street": "轻机大道169号"
+  },
+  "price": { "sum": 45, "average": 5233 }
+}
